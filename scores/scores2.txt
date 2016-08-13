@@ -6,7 +6,7 @@ counter: 529
 
 rook: 160
 
-markbot: 412
+circles: 412
 
 rabbit: 8
 

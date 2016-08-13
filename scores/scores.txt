@@ -1,0 +1,23 @@
+scoring sistem 1: matches out of 1000 won against in a massive group battle.
+
+grunt.r(from the internet, uses binary search pattern for max. accuracy):
+	652	631	651
+	644
+sniper.r:
+	233	248	212
+	231
+counter.r:
+	105	103	120
+	109
+marksbot.r(my own design):
+	4	5	3
+	4
+rook.r:
+	4	8	9
+	7
+rabbit.r:
+	0	0	0
+	0
+target.r:
+	0	0	0
+	0

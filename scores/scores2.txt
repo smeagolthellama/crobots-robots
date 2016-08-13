@@ -1,0 +1,13 @@
+scoring sistem 2: 7 of X against grunt.r, the current best robot. number of losses or ties for grunt.
+
+sniper: 48
+
+counter: 529
+
+rook: 160
+
+markbot: 412
+
+rabbit: 8
+
+target: 1

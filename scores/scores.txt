@@ -9,7 +9,7 @@ sniper.r:
 counter.r:
 	105	103	120
 	109
-marksbot.r(my own design):
+circles.r(my own design):
 	4	5	3
 	4
 rook.r:

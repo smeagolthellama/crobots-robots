@@ -9,3 +9,4 @@ At least, that is my own opinion. Others are allowed to disagree.
 
 Feel free to add more robots, but please keep things organized.
 
+I have not found the license for grunt.r, but here is a link to it's code: http://crobots.deepthought.it/home.php
